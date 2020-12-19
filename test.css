@@ -1,0 +1,57 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80");
+    background-size: cover;
+}
+
+#div1{
+    background-color: #f2f2f2;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+}
+
+
+#email{
+    width: 33%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+#password{
+    width: 33%;
+    padding: 10px 15px;
+    margin: 5px 0;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+#login{
+    width: 10%;
+    padding: 1% 1%;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+#div2{
+    padding: 1% 0;
+    margin-top: 4%;
+    margin-left: 35%;
+    background-color: rgb(195, 199, 202);
+    border: 2px none;
+    border-radius: 4px;
+    width: 30%;
+    
+}
